@@ -15,3 +15,5 @@ So, you can build a configuration system, before building. So your first Scienti
 - The number of stars the book received.
 - The price of the book.
 - Whether the book is in Stock or not.
+
+This project is an idea taken from this [article](https://medium.com/@meigarom/o-projeto-de-data-engineering-para-o-seu-portf%C3%B3lio-c186c7191823) of the profile [Seja Um Data Scientis](https://medium.com/@meigarom)
